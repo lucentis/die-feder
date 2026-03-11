@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@source "../**/*.md";
+@source "../../**/*.md";
 
 .vp-doc .no-underline {
   text-decoration: none;
