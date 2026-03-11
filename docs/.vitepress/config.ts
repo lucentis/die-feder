@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'fr-FR',
   title: 'Die Feder',
   description: "Apprendre l'allemand depuis zéro",
+  appearance: false,
 
   vite: {
     plugins: [tailwindcss()],
