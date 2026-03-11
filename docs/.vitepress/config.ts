@@ -1,0 +1,135 @@
+import { defineConfig } from 'vitepress'
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  lang: 'fr-FR',
+  title: 'Die Feder',
+  description: "Apprendre l'allemand depuis zéro",
+  appearance: false,
+
+  vite: {
+    plugins: [tailwindcss()],
+  },
+
+  themeConfig: {
+    nav: [
+      { text: 'Accueil', link: '/' },
+      {
+        text: 'Modules',
+        items: [
+          { text: '1 — Les fondations',       link: '/module-1-fondations/' },
+          { text: '2 — Construire une phrase', link: '/module-2-construire-une-phrase/' },
+          { text: '3 — Le quotidien',          link: '/module-3-quotidien/' },
+          { text: '4 — Parler du temps',       link: '/module-4-le-temps/' },
+          { text: '5 — Aller plus loin',       link: '/module-5-aller-plus-loin/' },
+        ],
+      },
+      { text: 'Ressources', link: '/ressources/' },
+    ],
+
+    sidebar: {
+      '/module-1-fondations/': [
+        {
+          text: 'Module 1 — Les fondations',
+          items: [
+            { text: 'Introduction',             link: '/module-1-fondations/' },
+            { text: 'Alphabet & prononciation', link: '/module-1-fondations/alphabet-prononciation' },
+            { text: 'Les chiffres',             link: '/module-1-fondations/chiffres' },
+            { text: 'Salutations',              link: '/module-1-fondations/salutations' },
+            { text: 'Se présenter',             link: '/module-1-fondations/se-presenter' },
+            { text: 'Le genre des noms',        link: '/module-1-fondations/le-genre-des-noms' },
+            { text: 'Le pluriel',               link: '/module-1-fondations/le-pluriel' },
+          ],
+        },
+      ],
+
+      '/module-2-construire-une-phrase/': [
+        {
+          text: 'Module 2 — Construire une phrase',
+          items: [
+            { text: 'Introduction',              link: '/module-2-construire-une-phrase/' },
+            { text: "L'ordre des mots",          link: '/module-2-construire-une-phrase/ordre-des-mots' },
+            { text: 'Le nominatif',              link: '/module-2-construire-une-phrase/nominatif' },
+            { text: 'Le présent — verbes réguliers', link: '/module-2-construire-une-phrase/present-verbes-reguliers' },
+            { text: 'Les verbes irréguliers',    link: '/module-2-construire-une-phrase/verbes-irreguliers' },
+            { text: 'Les pronoms personnels',    link: '/module-2-construire-une-phrase/pronoms-personnels' },
+            { text: 'La négation',               link: '/module-2-construire-une-phrase/negation' },
+          ],
+        },
+      ],
+
+      '/module-3-quotidien/': [
+        {
+          text: 'Module 3 — Le quotidien',
+          items: [
+            { text: 'Introduction',              link: '/module-3-quotidien/' },
+            { text: "L'accusatif",               link: '/module-3-quotidien/accusatif' },
+            { text: 'Articles selon les cas',    link: '/module-3-quotidien/articles-selon-les-cas' },
+            { text: 'Verbes séparables',         link: '/module-3-quotidien/verbes-separables' },
+            { text: 'Vocabulaire du quotidien',  link: '/module-3-quotidien/vocabulaire-quotidien' },
+            { text: 'Poser des questions',       link: '/module-3-quotidien/poser-des-questions' },
+            { text: 'Les verbes modaux',         link: '/module-3-quotidien/verbes-modaux' },
+          ],
+        },
+      ],
+
+      '/module-4-le-temps/': [
+        {
+          text: 'Module 4 — Parler du temps',
+          items: [
+            { text: 'Introduction',              link: '/module-4-le-temps/' },
+            { text: 'Le Perfekt',                link: '/module-4-le-temps/perfekt' },
+            { text: 'Le participe passé',        link: '/module-4-le-temps/participe-passe' },
+            { text: 'Le Präteritum',             link: '/module-4-le-temps/prateritum' },
+            { text: 'Le futur',                  link: '/module-4-le-temps/futur' },
+            { text: 'Expressions de temps',      link: '/module-4-le-temps/expressions-de-temps' },
+          ],
+        },
+      ],
+
+      '/module-5-aller-plus-loin/': [
+        {
+          text: 'Module 5 — Aller plus loin',
+          items: [
+            { text: 'Introduction',              link: '/module-5-aller-plus-loin/' },
+            { text: 'Le datif',                  link: '/module-5-aller-plus-loin/datif' },
+            { text: 'Les prépositions',          link: '/module-5-aller-plus-loin/prepositions' },
+            { text: 'Les adjectifs',             link: '/module-5-aller-plus-loin/adjectifs' },
+            { text: 'Les subordonnées',          link: '/module-5-aller-plus-loin/subordonnees' },
+            { text: 'Le Konjunktiv II',          link: '/module-5-aller-plus-loin/konjunktiv-2' },
+            { text: 'Le génitif',                link: '/module-5-aller-plus-loin/genitif' },
+          ],
+        },
+      ],
+
+      '/ressources/': [
+        {
+          text: 'Ressources',
+          items: [
+            { text: 'Liens utiles',              link: '/ressources/' },
+            { text: 'Faux-amis FR/DE',           link: '/ressources/faux-amis' },
+            { text: 'Expressions idiomatiques',  link: '/ressources/expressions-idiomatiques' },
+          ],
+        },
+      ],
+    },
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/lucentis/die-feder' },
+    ],
+
+    footer: {
+      message: 'Contenu sous licence CC BY 4.0',
+      copyright: 'Die Feder — open source',
+    },
+
+    editLink: {
+      pattern: 'https://github.com/lucentis/die-feder/edit/main/docs/:path',
+      text: 'Modifier cette page sur GitHub',
+    },
+
+    lastUpdated: {
+      text: 'Dernière mise à jour',
+    },
+  },
+})
