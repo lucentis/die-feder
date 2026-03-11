@@ -10,7 +10,7 @@ L'allemand s'écrit comme il se prononce - bien plus régulièrement que le fran
 
 L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractères spécifiques : **ä**, **ö**, **ü** et **ß**.
 
-<div class="mt-6 grid grid-cols-6 gap-2 text-center">
+<div class="mt-6 grid grid-cols-4 gap-2 text-center">
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">A a</div>
     <div class="text-sm text-gray-500 mt-1">ah</div>
@@ -138,6 +138,10 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
   </div>
 </div>
 
+::: info Le ß sur un clavier français
+Si tu n'as pas de clavier allemand, tu peux remplacer ß par **ss** - c'est accepte partout. Alternativement : sur Windows `Alt + 0223`, sur Mac `Option + s`.
+:::
+
 ## Regles de prononciation
 
 ### Les combinaisons a connaitre
@@ -161,6 +165,10 @@ Ce sont les sons qui piègent les francophones au départ.
       <div class="text-sm text-gray-500 mt-1">Ex : <em>Liebe</em> (amour), <em>viel</em> (beaucoup), <em>sieben</em> (sept)</div>
     </div>
   </div>
+
+::: warning ei et ie - ne pas confondre
+*ei* = **aï** / *ie* = **i long**. C'est l'inverse de ce qu'on attendrait. *wein* (vin) se prononce "vaïn", *Wien* (Vienne) se prononce "viin". Ce piege fait trébucher beaucoup de debutants.
+:::
 
   <div class="flex items-start gap-4 p-4 rounded-lg border border-gray-200">
     <div class="text-xl font-bold text-green-600 w-16 shrink-0">eu / äu</div>
@@ -220,6 +228,10 @@ Ce sont les sons qui piègent les francophones au départ.
 
 </div>
 
+::: warning W et V - l'inversion
+En allemand, **w** se prononce comme notre "v", et **v** se prononce comme notre "f". C'est systematiquement l'inverse du français. *Wein* = "vaïn", *Vater* = "fater".
+:::
+
 ### Le h muet
 
 Le **h** ne se prononce pas quand il suit une voyelle - il allonge simplement le son.
@@ -233,3 +245,7 @@ En debut de mot, le h est aspire : *Haus* (maison) = "haous".
 Le **r** allemand se prononce au fond de la gorge, comme un léger gargarisme. Il n'est pas roulé comme en espagnol. En fin de mot ou de syllabe, il devient presque muet et se confond avec un "a" court.
 
 Ex : *Bruder* (frère) = "broudeur", *Tür* (porte) = "tüa"
+
+::: tip Apprendre le r allemand
+Essaie de faire le son du "r" français du fond de la gorge en exagerant. Avec le temps il devient naturel. Ne cherche pas la perfection des le debut - un r un peu approximatif reste comprehensible.
+:::
