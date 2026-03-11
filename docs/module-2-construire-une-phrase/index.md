@@ -1,10 +1,14 @@
 # Module 2 — Construire une phrase
 
-**Prérequis :** Module 1 — Les fondations.
+**Prérequis :** [Module 1 - Les fondations](../module-1-fondations/)
 
 **Objectif :** formuler des phrases simples et correctes en allemand, comprendre l'ordre des mots et conjuguer au présent.
 
-Tu sais te présenter et prononcer l'allemand. Maintenant on construit des phrases. Ce module introduit la grammaire de base — mais toujours au service de l'expression, pas pour elle-même.
+Tu sais te présenter et prononcer l'allemand. Maintenant on construit des phrases. Ce module introduit la grammaire de base - mais toujours au service de l'expression, pas pour elle-meme.
+
+::: info Ce module introduit les cas grammaticaux
+L'allemand possede 4 cas qui changent la forme des articles. Ce module couvre le premier - le nominatif. Les autres (accusatif, datif, genitif) arrivent progressivement dans les modules suivants.
+:::
 
 ## Au programme
 
