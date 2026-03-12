@@ -113,5 +113,5 @@ Chaque nom doit être appris avec son article défini - toujours. Pas *Tisch*, m
 </div>
 
 ::: info *es* comme sujet grammatical pour la meteo
-Comme en français avec "il", l'allemand utilisé *es* comme sujet impersonnel pour parler du temps : *Es regnet*, *Es ist kalt*. Ce *es* ne renvoie à rien de concret - c'est un sujet grammatical obligatoire.
+Comme en français avec "il", l'allemand utilisé *es* comme sujet impersonnel pour parler du temps : *Es regnet*, *Es ist kalt*. Ce *es* ne renvoie à rien de concret, c'est un sujet grammatical obligatoire.
 :::

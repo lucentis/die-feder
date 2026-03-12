@@ -8,9 +8,9 @@ prev:
 
 **Prérequis :** [La négation](../module-2-construire-une-phrase/negation)
 
-**Objectif :** reconnaitre et utiliser l'accusatif - le cas de l'objet direct.
+**Objectif :** reconnaitre et utiliser l'accusatif, le cas de l'objet direct.
 
-Le nominatif, vu au module 2, est le cas du sujet. L'accusatif est le cas de l'objet direct - ce qui subit l'action.
+Le nominatif, vu au module 2, est le cas du sujet. L'accusatif est le cas de l'objet direct, ce qui subit l'action.
 
 ## Sujet et objet direct
 

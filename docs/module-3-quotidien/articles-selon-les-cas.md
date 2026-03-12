@@ -59,7 +59,7 @@ Cette lecon est une lecon de synthese. Elle consolide ce qu'on sait et prepare l
 
 ## Apercu du datif
 
-Le datif est le cas de l'objet indirect - ce à qui ou ce pour qui se fait l'action. Il est traité en détail au module 5, mais voici à quoi ressemblent ses articles pour que la progression soit visible :
+Le datif est le cas de l'objet indirect, ce à qui ou ce pour qui se fait l'action. Il est traité en détail au module 5, mais voici à quoi ressemblent ses articles pour que la progression soit visible :
 
 <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
   <table class="w-full text-sm">
