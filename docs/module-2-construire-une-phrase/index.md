@@ -32,7 +32,7 @@ L'allemand possede 4 cas qui changent la forme des articles. Ce module couvre le
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
 
-  <a href="./présent-verbes-réguliers" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
+  <a href="./present-verbes-reguliers" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
     <span class="text-3xl font-black text-gray-300 group-hover:text-green-200 transition-colors select-none w-8 text-center shrink-0">3</span>
     <div class="min-w-0">
       <div class="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">Le présent — verbes réguliers</div>
@@ -41,7 +41,7 @@ L'allemand possede 4 cas qui changent la forme des articles. Ce module couvre le
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
 
-  <a href="./verbes-irréguliers" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
+  <a href="./verbes-irreguliers" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
     <span class="text-3xl font-black text-gray-300 group-hover:text-green-200 transition-colors select-none w-8 text-center shrink-0">4</span>
     <div class="min-w-0">
       <div class="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">Les verbes irréguliers</div>
