@@ -8,7 +8,7 @@ prev:
 
 **Prérequis :** [Les verbes modaux](../module-3-quotidien/verbes-modaux)
 
-**Objectif :** former et utiliser le Perfekt - le temps du passé a l'oral en allemand.
+**Objectif :** former et utiliser le Perfekt: le temps du passé a l'oral en allemand.
 
 Le Perfekt est le temps qu'on utilisé pour parler du passé dans une conversation. Il correspond au passé composé français, mais sa logique de construction est différente.
 
@@ -84,5 +84,5 @@ Si le verbe peut avoir un complément d'objet direct (accusatif), c'est presque 
 | bleiben | geblieben | sein | *Du bist zu Hause geblieben.* |
 
 ::: warning Le participe passé ne s'accorde pas
-Contrairement au français, le participe passé allemand est invariable - il ne s'accorde ni en genre ni en nombre. *Ich habe gegessen*, *Sie hat gegessen*, *Wir haben gegessen* : la forme *gegessen* ne change jamais.
+Contrairement au français, le participe passé allemand est invariable: il ne s'accorde ni en genre ni en nombre. *Ich habe gegessen*, *Sie hat gegessen*, *Wir haben gegessen* : la forme *gegessen* ne change jamais.
 :::

@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
+  base: "/die-feder/",
   lang: 'fr-FR',
   title: 'Die Feder',
   description: "Apprendre l'allemand depuis zéro",

@@ -69,9 +69,3 @@ Accusatif, verbes séparables, modaux: ce sont les trois blocs qui te permettron
   </a>
 
 </div>
-
-<div class="mt-10">
-
-[Commencer par l'accusatif →](./accusatif)
-
-</div>
