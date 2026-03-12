@@ -4,7 +4,7 @@
 
 **Objectif :** lire et prononcer l'allemand correctement dès le départ. Une bonne prononciation facilite la mémorisation et évite de prendre de mauvaises habitudes.
 
-L'allemand s'écrit comme il se prononce - bien plus régulièrement que le français. Une fois les règles connues, tu peux lire n'importe quel mot à voix haute sans l'avoir jamais vu.
+L'allemand s'écrit comme il se prononce bien plus régulièrement que le français. Une fois les règles connues, tu peux lire n'importe quel mot à voix haute sans l'avoir jamais vu.
 
 ## L'alphabet
 
@@ -139,7 +139,7 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
 </div>
 
 ::: info Le ß sur un clavier français
-Si tu n'as pas de clavier allemand, tu peux remplacer ß par **ss** - c'est accepté partout. Alternativement : sur Windows `Alt + 0223`, sur Mac `Option + s`.
+Si tu n'as pas de clavier allemand, tu peux remplacer ß par **ss**, c'est accepté partout. Alternativement : sur Windows `Alt + 0223`, sur Mac `Option + s`.
 :::
 
 ## Règles de prononciation
@@ -234,7 +234,7 @@ En allemand, **w** se prononce comme notre "v", et **v** se prononce comme notre
 
 ### Le h muet
 
-Le **h** ne se prononce pas quand il suit une voyelle - il allonge simplement le son.
+Le **h** ne se prononce pas quand il suit une voyelle, il allonge simplement le son.
 
 Ex : *fahren* (conduire) = "faaren", *Uhr* (heure) = "our"
 
@@ -247,5 +247,5 @@ Le **r** allemand se prononce au fond de la gorge, comme un léger gargarisme. I
 Ex : *Bruder* (frère) = "broudeur", *Tür* (porte) = "tüa"
 
 ::: tip Apprendre le r allemand
-Essaie de faire le son du "r" français du fond de la gorge en exagérant. Avec le temps il devient naturel. Ne cherche pas la perfection dès le début - un r un peu approximatif reste compréhensible.
+Essaie de faire le son du "r" français du fond de la gorge en exagérant. Avec le temps il devient naturel. Ne cherche pas la perfection dès le début, un "r" un peu approximatif reste compréhensible.
 :::

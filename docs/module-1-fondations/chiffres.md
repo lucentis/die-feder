@@ -143,7 +143,7 @@ Les chiffres allemands suivent une logique très régulière une fois les bases 
 </div>
 
 ::: warning Attention à dreißig
-30 s'ecrit *dreißig* (avec ß). 60 (*sechzig*) perd le *s*, 70 (*siebzig*) perd le *en* - même logique que 16 et 17.
+30 s'ecrit *dreißig* (avec ß). 60 (*sechzig*) perd le *s*, 70 (*siebzig*) perd le *en*. Même logique que 16 et 17.
 :::
 
 ## Les nombres composes (21-99)
@@ -179,7 +179,7 @@ En allemand, l'unite vient en premier, puis *und*, puis la dizaine. C'est l'inve
 </div>
 
 ::: tip La règle des nombres composes
-**unite + und + dizaine**, le tout en un seul mot. C'est l'inverse du français - on dit "cinq-et-trente" plutot que "trente-cinq".
+**unite + und + dizaine**, le tout en un seul mot. C'est l'inverse du français, on dit "cinq-et-trente" plutot que "trente-cinq".
 :::
 
 ## Les centaines

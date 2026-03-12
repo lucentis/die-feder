@@ -2,9 +2,9 @@
 
 **Prérequis :** [Alphabet et prononciation](./alphabet-prononciation)
 
-**Objectif :** savoir dire bonjour, au revoir, merci et comment ca va dans les situations formelles et informelles.
+**Objectif :** savoir dire bonjour, au revoir, merci et comment ça va dans les situations formelles et informelles.
 
-En allemand, les salutations varient selon l'heure de la journee et le contexte. La distinction formel/informel est importante - les Allemands y attachent de l'importance.
+En allemand, les salutations varient selon l'heure de la journee et le contexte. La distinction formel/informel est importante, les Allemands y attachent de l'importance.
 
 ## Dire bonjour
 
@@ -53,7 +53,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 </div>
 
 ::: warning Gute Nacht n'est pas Bonsoir
-*Gute Nacht* se dit uniquement quand on va dormir - pas en sortant d'un dîner ou d'une soirée. Dans ce cas, on utilisé *Tschüss* ou *Auf Wiedersehen*.
+*Gute Nacht* se dit uniquement quand on va dormir, pas en sortant d'un dîner ou d'une soirée. Dans ce cas, on utilisé *Tschüss* ou *Auf Wiedersehen*.
 :::
 
 ## Dire au revoir
@@ -89,12 +89,12 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
       <div class="font-semibold text-gray-900 text-lg">Bis morgen !</div>
       <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded-full">informel</span>
     </div>
-    <div class="text-gray-600 mt-1">A demain - *bis* + un complément de temps fonctionne toujours : *bis Montag* (a lundi)</div>
+    <div class="text-gray-600 mt-1">A demain - <b>bis</b> + un complément de temps fonctionne toujours : <b>bis Montag</b> (a lundi)</div>
   </div>
 
 </div>
 
-## Comment ca va ?
+## Comment ça va ?
 
 <div class="mt-4 grid gap-3">
 
@@ -105,7 +105,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 
   <div class="p-4 rounded-lg border border-green-100 bg-green-50">
     <div class="font-semibold text-gray-900">Wie geht es dir ? / Wie geht's ?</div>
-    <div class="text-sm text-gray-500 mt-1">Comment ca va ? - <strong>informel</strong>, avec tutoiement (*du*). *Wie geht's* est la forme raccourcie très courante.</div>
+    <div class="text-sm text-gray-500 mt-1">Comment ca va ? - <strong>informel</strong>, avec tutoiement (<b>du</b>). <b>Wie geht's</b> est la forme raccourcie très courante.</div>
   </div>
 
 </div>
@@ -130,5 +130,5 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 | Es tut mir leid. | Je suis desole(e). |
 
 ::: tip Bitte - un mot, deux sens
-*Bitte* signifie "s'il vous plait" quand on demande quelque chose, et "de rien" quand on répond à un merci. C'est le même mot dans les deux cas - apprends-le une bonne fois pour toutes.
+*Bitte* signifie "s'il vous plait" quand on demande quelque chose, et "de rien" quand on répond à un merci. C'est le même mot dans les deux cas, apprends-le une bonne fois pour toutes.
 :::

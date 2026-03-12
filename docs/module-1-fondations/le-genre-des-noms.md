@@ -4,7 +4,7 @@
 
 **Objectif :** comprendre le systeme des trois genres en allemand et apprendre les règles et indices qui permettent de les deviner.
 
-En allemand, chaque nom a un genre : masculin (*der*), féminin (*die*) ou neutre (*das*). Ce genre ne correspond pas toujours au sens du mot - c'est la difficulté principale. Mais il existe des règles qui aident à deviner.
+En allemand, chaque nom a un genre : masculin (*der*), féminin (*die*) ou neutre (*das*). Ce genre ne correspond pas toujours au sens du mot, c'est la difficulté principale. Mais il existe des règles qui aident à deviner.
 
 ## Les trois articles
 

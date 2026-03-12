@@ -2,13 +2,13 @@
 
 **Prérequis :** [Salutations](./salutations)
 
-**Objectif :** dire qui tu es, d'ou tu viens, ton âge et ce que tu fais - les bases d'une première conversation.
+**Objectif :** Dire qui tu es, d'ou tu viens, ton âge et ce que tu fais. Les bases d'une première conversation.
 
 Se présenter en allemand suit des structures simples et regulieres. Les quelques phrases de cette lecon te permettront de tenir une vraie conversation courte.
 
 ## Donner son nom
 
-Il existe trois façons de dire son nom - toutes sont correctes :
+Il existe trois façons de dire son nom, toutes sont correctes :
 
 <div class="mt-4 grid gap-3">
 
@@ -40,7 +40,7 @@ Il existe trois façons de dire son nom - toutes sont correctes :
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich komme aus [pays / ville].</div>
-    <div class="text-sm text-gray-500 mt-1">Je viens de [pays / ville]. - Ex : *Ich komme aus Frankreich.* / *Ich komme aus Paris.*</div>
+    <div class="text-sm text-gray-500 mt-1">Je viens de [pays / ville]. - Ex : <b>Ich komme aus Frankreich.</b> / <b>Ich komme aus Paris.</b></div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
@@ -91,12 +91,12 @@ En français on dit "je suis **un** professeur". En allemand on dit *Ich bin Leh
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich arbeite als [profession].</div>
-    <div class="text-sm text-gray-500 mt-1">Je travaille comme [profession]. - Ex : *Ich arbeite als Ingenieur.*</div>
+    <div class="text-sm text-gray-500 mt-1">Je travaille comme [profession]. - Ex : <b>Ich arbeite als Ingenieur.</b></div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich studiere [matière].</div>
-    <div class="text-sm text-gray-500 mt-1">J'etudie [matière]. - Ex : *Ich studiere Informatik.* (J'etudie l'informatique.)</div>
+    <div class="text-sm text-gray-500 mt-1">J'etudie [matière]. - Ex : <b>Ich studiere Informatik.</b> (J'etudie l'informatique.)</div>
   </div>
 
 </div>

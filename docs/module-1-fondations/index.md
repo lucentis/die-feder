@@ -1,8 +1,8 @@
-# Module 1 — Les fondations
+# Module 1 - Les fondations
 
 **Prérequis :** aucun. Ce module est le point de départ.
 
-**Objectif :** poser les bases indispensables pour tout ce qui suit — lire, compter, se repérer et se présenter en allemand.
+**Objectif :** poser les bases indispensables pour tout ce qui suit: lire, compter, se repérer et se présenter en allemand.
 
 Dans ce premier module, pas de grammaire complexe. On commence par ce qui te permet de prononcer correctement, de compter, et d'avoir une première conversation simple.
 
@@ -32,7 +32,7 @@ Dans ce premier module, pas de grammaire complexe. On commence par ce qui te per
     <span class="text-3xl font-black text-gray-300 group-hover:text-green-200 transition-colors select-none w-8 text-center shrink-0">3</span>
     <div class="min-w-0">
       <div class="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">Salutations</div>
-      <div class="text-sm text-gray-500 mt-1">Dire bonjour, au revoir, merci — selon le contexte formel ou informel.</div>
+      <div class="text-sm text-gray-500 mt-1">Dire bonjour, au revoir et merci selon le contexte formel ou informel.</div>
     </div>
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
@@ -63,11 +63,5 @@ Dans ce premier module, pas de grammaire complexe. On commence par ce qui te per
     </div>
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
-
-</div>
-
-<div class="mt-10">
-
-[Commencer par l'alphabet →](./alphabet-prononciation)
 
 </div>
