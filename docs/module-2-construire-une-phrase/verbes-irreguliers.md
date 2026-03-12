@@ -1,6 +1,6 @@
 # Les verbes irréguliers
 
-**Prérequis :** [Le présent - verbes réguliers](./présent-verbes-réguliers)
+**Prérequis :** [Le présent - verbes réguliers](./present-verbes-reguliers)
 
 **Objectif :** connaître la conjugaison de sein, haben et werden - les trois verbes les plus utilisés de la langue.
 

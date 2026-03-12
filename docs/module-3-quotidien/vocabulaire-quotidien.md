@@ -1,6 +1,6 @@
 # Vocabulaire du quotidien
 
-**Prérequis :** [Les verbes séparables](./verbes-séparables)
+**Prérequis :** [Les verbes séparables](./verbes-separables)
 
 **Objectif :** disposer du vocabulaire essentiel pour parler de sa vie quotidienne.
 

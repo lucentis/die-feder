@@ -1,6 +1,6 @@
 # Les pronoms personnels
 
-**Prérequis :** [Les verbes irréguliers](./verbes-irréguliers)
+**Prérequis :** [Les verbes irréguliers](./verbes-irreguliers)
 
 **Objectif :** maitriser tous les pronoms personnels sujets et comprendre la distinction tu/vous.
 

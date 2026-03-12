@@ -1,6 +1,6 @@
 # Les adjectifs
 
-**Prérequis :** [Les prépositions](./prépositions)
+**Prérequis :** [Les prépositions](./prepositions)
 
 **Objectif :** décliner les adjectifs epithetes selon le cas, le genre et le type d'article qui précède.
 
