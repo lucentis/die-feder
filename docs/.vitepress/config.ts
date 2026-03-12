@@ -49,7 +49,7 @@ export default defineConfig({
             { text: 'Introduction',              link: '/module-2-construire-une-phrase/' },
             { text: "L'ordre des mots",          link: '/module-2-construire-une-phrase/ordre-des-mots' },
             { text: 'Le nominatif',              link: '/module-2-construire-une-phrase/nominatif' },
-            { text: 'Le présent — verbes réguliers', link: '/module-2-construire-une-phrase/present-verbes-reguliers' },
+            { text: 'Le présent - verbes réguliers', link: '/module-2-construire-une-phrase/present-verbes-reguliers' },
             { text: 'Les verbes irréguliers',    link: '/module-2-construire-une-phrase/verbes-irreguliers' },
             { text: 'Les pronoms personnels',    link: '/module-2-construire-une-phrase/pronoms-personnels' },
             { text: 'La négation',               link: '/module-2-construire-une-phrase/negation' },

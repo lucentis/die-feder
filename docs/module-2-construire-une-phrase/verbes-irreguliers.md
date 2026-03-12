@@ -2,9 +2,9 @@
 
 **Prérequis :** [Le présent - verbes réguliers](./present-verbes-reguliers)
 
-**Objectif :** connaître la conjugaison de sein, haben et werden - les trois verbes les plus utilisés de la langue.
+**Objectif :** connaître la conjugaison de sein, haben et werden, les trois verbes les plus utilisés de la langue.
 
-Ces trois verbes sont irréguliers et ne suivent pas les règles des verbes faibles. Ils sont indispensables - on les retrouve dans presque toutes les phrases.
+Ces trois verbes sont irréguliers et ne suivent pas les règles des verbes faibles. Ils sont indispensables, on les retrouve dans presque toutes les phrases.
 
 ## sein - être
 
@@ -55,7 +55,7 @@ Ces trois verbes sont irréguliers et ne suivent pas les règles des verbes faib
 </div>
 
 ::: warning Sein est totalement irrégulier
-Contrairement aux verbes réguliers, *sein* n'a aucun rapport entre l'infinitif et ses formes conjuguees. C'est le seul verbe allemand aussi irrégulier - il faut l'apprendre integralement par coeur.
+Contrairement aux verbes réguliers, *sein* n'a aucun rapport entre l'infinitif et ses formes conjuguees. C'est le seul verbe allemand aussi irrégulier, il faut l'apprendre integralement par coeur.
 :::
 
 ## haben - avoir
@@ -156,7 +156,7 @@ Contrairement aux verbes réguliers, *sein* n'a aucun rapport entre l'infinitif 
 
 ## Expressions courantes avec sein et haben
 
-Ces tournures s'utilisent constamment - apprends-les telles quelles :
+Ces tournures s'utilisent constamment, apprends-les telles quelles :
 
 | Allemand | Français |
 |----------|----------|

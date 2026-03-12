@@ -1,20 +1,14 @@
----
-prev:
-  text: 'Introduction Module 2'
-  link: '/module-2-construire-une-phrase/'
----
-
 # L'ordre des mots
 
 **Prérequis :** [Introduction Module 2](./index)
 
-**Objectif :** comprendre la règle fondamentale de la phrase allemande - le verbe est toujours en deuxième position.
+**Objectif :** comprendre la règle fondamentale de la phrase allemande, le verbe est toujours en deuxième position.
 
 C'est la règle la plus importante de la syntaxe allemande. Une fois assimilee, tout le reste devient beaucoup plus logique.
 
 ## La règle V2
 
-En allemand, le verbe conjugue occupe **toujours la deuxième position** dans une phrase declarative. Peu importe ce qui vient en premier - le sujet, un complément de temps, un complément de lieu - le verbe reste en deuxième position.
+En allemand, le verbe conjugue occupe **toujours la deuxième position** dans une phrase declarative. Peu importe ce qui vient en premier: le sujet, un complément de temps, un complément de lieu. Le verbe reste en deuxième position.
 
 ::: info Ce qu'on appelle "position"
 On ne compte pas les mots, mais les groupes de mots. *Aujourd'hui matin* est un seul groupe, pas deux positions. C'est la position du groupe qui compte.
@@ -136,11 +130,11 @@ Dans une question sans mot interrogatif, le verbe passe en première position :
 - *Lernst du Deutsch ?* - Tu apprends l'allemand ?
 
 ::: tip Position 0 : und, aber, oder, denn
-Les conjonctions de coordination *und* (et), *aber* (mais), *oder* (ou), *denn* (car) ne comptent pas comme une position — elles sont en « position 0 ». Le verbe reste en deuxième position dans la phrase qui suit.
+Les conjonctions de coordination *und* (et), *aber* (mais), *oder* (ou), *denn* (car) ne comptent pas comme une position, elles sont en « position 0 ». Le verbe reste en deuxième position dans la phrase qui suit.
 
 *Ich lerne Deutsch **und** ich spreche ein bisschen.* - J'apprends l'allemand et je parlé un peu.
 :::
 
 ## Ce que ca change par rapport au français
 
-En allemand, la flexibilité dans l'ordre des mots n'altère pas le sens - les cas grammaticaux (nominatif, accusatif...) jouent ce role. L'ordre sert à mettre en valeur un élément. C'est une logique différente du français, mais très cohérente une fois qu'on l'a intégrée.
+En allemand, la flexibilité dans l'ordre des mots n'altère pas le sens, les cas grammaticaux (nominatif, accusatif...) jouent ce role. L'ordre sert à mettre en valeur un élément. C'est une logique différente du français, mais très cohérente une fois qu'on l'a intégrée.

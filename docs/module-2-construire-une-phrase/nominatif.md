@@ -4,7 +4,7 @@
 
 **Objectif :** comprendre ce qu'est le nominatif, reconnaitre sa forme et savoir l'utiliser.
 
-Le nominatif est le premier des quatre cas de la langue allemande. C'est le plus simple - il correspond au sujet de la phrase.
+Le nominatif est le premier des quatre cas de la langue allemande. C'est le plus simple, il correspond au sujet de la phrase.
 
 ## Qu'est-ce qu'un cas ?
 
@@ -16,7 +16,7 @@ Les cas permettent de savoir qui fait quoi dans une phrase, même si l'ordre des
 
 ## Le nominatif : le sujet
 
-Le nominatif est utilisé pour le **sujet de la phrase** - celui ou ce qui fait l'action.
+Le nominatif est utilisé pour le **sujet de la phrase**, celui ou ce qui fait l'action.
 
 *Der Mann kauft ein Buch.* - **L'homme** achete un livre. (der Mann = nominatif)
 
@@ -58,7 +58,7 @@ Au nominatif, les articles sont exactement ceux qu'on a appris avec les genres :
 
 ## Les pronoms personnels au nominatif
 
-Ce sont les pronoms sujets - les mêmes qu'on utilisé pour conjuguer les verbes.
+Ce sont les pronoms sujets, les mêmes qu'on utilisé pour conjuguer les verbes.
 
 <div class="mt-4 grid grid-cols-2 gap-4">
 
@@ -97,5 +97,5 @@ Ce sont les pronoms sujets - les mêmes qu'on utilisé pour conjuguer les verbes
 - *Die Kinder spielen.* - Les enfants jouent. (*die Kinder* = sujet pluriel, nominatif)
 
 ::: tip A retenir
-Le nominatif, c'est la forme "de base" du nom - celle qu'on trouve dans le dictionnaire. Quand un nom est sujet de la phrase, il est au nominatif et son article ne change pas.
+Le nominatif, c'est la forme "de base" du nom, celle qu'on trouve dans le dictionnaire. Quand un nom est sujet de la phrase, il est au nominatif et son article ne change pas.
 :::

@@ -4,7 +4,7 @@
 
 **Objectif :** conjuguer n'importe quel verbe régulier au présent en allemand.
 
-Les verbes réguliers - appeles aussi "verbes faibles" - suivent tous le même modele. Une fois la règle connue, tu peux conjuguer des milliers de verbes sans les avoir jamais vus.
+Les verbes réguliers, appeles aussi "verbes faibles", suivent tous le même modele. Une fois la règle connue, tu peux conjuguer des milliers de verbes sans les avoir jamais vus.
 
 ## La methode en 2 etapes
 

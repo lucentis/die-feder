@@ -75,26 +75,26 @@ C'est le point le plus important et le plus différent du français.
 
   <div class="p-4 rounded-xl border border-blue-200 bg-blue-50">
     <div class="font-semibold text-blue-800 text-lg">du</div>
-    <div class="text-sm text-blue-700 mt-1">Tutoiement singulier - amis, famille, enfants, collegues proches</div>
+    <div class="text-sm text-blue-700 mt-1">Tutoiement singulier: amis, famille, enfants, collegues proches</div>
     <div class="text-sm text-gray-600 italic mt-2">*Wie heißt du ?* - Comment tu t'appelles ?</div>
   </div>
 
   <div class="p-4 rounded-xl border border-purple-200 bg-purple-50">
     <div class="font-semibold text-purple-800 text-lg">ihr</div>
-    <div class="text-sm text-purple-700 mt-1">Tutoiement pluriel - on s'adresse a plusieurs personnes qu'on tutoyerait individuellement</div>
+    <div class="text-sm text-purple-700 mt-1">Tutoiement pluriel: on s'adresse a plusieurs personnes qu'on tutoyerait individuellement</div>
     <div class="text-sm text-gray-600 italic mt-2">*Kommt ihr heute Abend ?* - Vous venez ce soir ? (a des amis)</div>
   </div>
 
   <div class="p-4 rounded-xl border border-orange-200 bg-orange-50">
     <div class="font-semibold text-orange-800 text-lg">Sie</div>
-    <div class="text-sm text-orange-700 mt-1">Vouvoiement - singulier et pluriel. Personnes inconnues, superieurs, contextes professionnels formels. Toujours avec majuscule.</div>
+    <div class="text-sm text-orange-700 mt-1">Vouvoiement: singulier et pluriel. Personnes inconnues, superieurs, contextes professionnels formels. Toujours avec majuscule.</div>
     <div class="text-sm text-gray-600 italic mt-2">*Wie heißen Sie ?* - Comment vous appelez-vous ?</div>
   </div>
 
 </div>
 
 ::: tip Quand utiliser du ou Sie ?
-En Allemagne, la tendance est au tutoiement dans beaucoup de contextes (startups, magasins comme Ikea). Mais dans le doute - et surtout face à une personne plus âgée ou dans un contexte formel - commence par *Sie*. La personne te proposera de passer au *du* si elle le souhaite : *« Wir können uns duzen »*.
+En Allemagne, la tendance est au tutoiement dans beaucoup de contextes (startups, magasins comme Ikea). Mais dans le doute, et surtout face à une personne plus âgée ou dans un contexte formel, commence par *Sie*. La personne te proposera de passer au *du* si elle le souhaite : *« Wir können uns duzen »*.
 :::
 
 ## er, sie, es selon le genre grammatical
