@@ -1,14 +1,14 @@
 # Les verbes irréguliers
 
-**Prérequis :** [Le présent - verbes réguliers](./present-verbes-reguliers)
+**Prérequis :** [Le présent - verbes réguliers](./présent-verbes-réguliers)
 
-**Objectif :** connaitre la conjugaison de sein, haben et werden - les trois verbes les plus utilises de la langue.
+**Objectif :** connaître la conjugaison de sein, haben et werden - les trois verbes les plus utilisés de la langue.
 
-Ces trois verbes sont irreguliers et ne suivent pas les regles des verbes faibles. Ils sont indispensables - on les retrouve dans presque toutes les phrases.
+Ces trois verbes sont irréguliers et ne suivent pas les règles des verbes faibles. Ils sont indispensables - on les retrouve dans presque toutes les phrases.
 
 ## sein - être
 
-*Sein* est le verbe le plus irregulier de l'allemand. Sa conjugaison est a apprendre par coeur.
+*Sein* est le verbe le plus irrégulier de l'allemand. Sa conjugaison est a apprendre par coeur.
 
 <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
   <table class="w-full text-sm">
@@ -54,13 +54,13 @@ Ces trois verbes sont irreguliers et ne suivent pas les regles des verbes faible
   </table>
 </div>
 
-::: warning Sein est totalement irregulier
-Contrairement aux verbes reguliers, *sein* n'a aucun rapport entre l'infinitif et ses formes conjuguees. C'est le seul verbe allemand aussi irregulier - il faut l'apprendre integralement par coeur.
+::: warning Sein est totalement irrégulier
+Contrairement aux verbes réguliers, *sein* n'a aucun rapport entre l'infinitif et ses formes conjuguees. C'est le seul verbe allemand aussi irrégulier - il faut l'apprendre integralement par coeur.
 :::
 
 ## haben - avoir
 
-*Haben* est presque regulier, a une exception pres : les formes *du hast* et *er/sie/es hat* perdent le *-b-* du radical.
+*Haben* est presque régulier, a une exception pres : les formes *du hast* et *er/sie/es hat* perdent le *-b-* du radical.
 
 <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
   <table class="w-full text-sm">
@@ -108,7 +108,7 @@ Contrairement aux verbes reguliers, *sein* n'a aucun rapport entre l'infinitif e
 
 ## werden - devenir / auxiliaire du futur
 
-*Werden* signifie "devenir" mais sert aussi a former le futur (module 4). Sa conjugaison est a connaitre.
+*Werden* signifie "devenir" mais sert aussi a former le futur (module 4). Sa conjugaison est a connaître.
 
 <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
   <table class="w-full text-sm">
@@ -158,7 +158,7 @@ Contrairement aux verbes reguliers, *sein* n'a aucun rapport entre l'infinitif e
 
 Ces tournures s'utilisent constamment - apprends-les telles quelles :
 
-| Allemand | Francais |
+| Allemand | Français |
 |----------|----------|
 | *Ich habe Hunger.* | J'ai faim. |
 | *Ich habe Durst.* | J'ai soif. |
@@ -167,6 +167,6 @@ Ces tournures s'utilisent constamment - apprends-les telles quelles :
 | *Ich bin krank.* | Je suis malade. |
 | *Ich bin satt.* | Je n'ai plus faim. |
 
-::: tip Hunger, Durst, Angst - pas de "avoir" en francais
-Faim, soif, peur se disent avec *haben* (avoir) en allemand. *Ich habe Hunger* signifie litteralement "j'ai faim". Meme logique qu'en français pour ces expressions.
+::: tip Hunger, Durst, Angst - pas de "avoir" en français
+Faim, soif, peur se disent avec *haben* (avoir) en allemand. *Ich habe Hunger* signifie litteralement "j'ai faim". Même logique qu'en français pour ces expressions.
 :::

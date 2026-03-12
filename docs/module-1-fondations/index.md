@@ -37,7 +37,7 @@ Dans ce premier module, pas de grammaire complexe. On commence par ce qui te per
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
 
-  <a href="./se-presenter" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
+  <a href="./se-présenter" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
     <span class="text-3xl font-black text-gray-300 group-hover:text-green-200 transition-colors select-none w-8 text-center shrink-0">4</span>
     <div class="min-w-0">
       <div class="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">Se présenter</div>
@@ -63,5 +63,11 @@ Dans ce premier module, pas de grammaire complexe. On commence par ce qui te per
     </div>
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
+
+</div>
+
+<div class="mt-10">
+
+[Commencer par l'alphabet →](./alphabet-prononciation)
 
 </div>

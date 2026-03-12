@@ -1,10 +1,10 @@
 # Les pronoms personnels
 
-**Prérequis :** [Les verbes irréguliers](./verbes-irreguliers)
+**Prérequis :** [Les verbes irréguliers](./verbes-irréguliers)
 
 **Objectif :** maitriser tous les pronoms personnels sujets et comprendre la distinction tu/vous.
 
-Les pronoms personnels sujets ont deja ete vus dans les lecons precedentes. Cette lecon les rassemble et explique les distinctions importantes.
+Les pronoms personnels sujets ont déjà ete vus dans les lecons precedentes. Cette lecon les rassemble et explique les distinctions importantes.
 
 ## Tableau complet
 
@@ -35,7 +35,7 @@ Les pronoms personnels sujets ont deja ete vus dans les lecons precedentes. Cett
       </tr>
       <tr class="border-t border-gray-100 bg-gray-50">
         <td class="p-3 font-bold text-green-700">sie</td>
-        <td class="p-3 text-gray-600">elle (feminin)</td>
+        <td class="p-3 text-gray-600">elle (féminin)</td>
         <td class="p-3 text-gray-500 italic">Sie arbeitet viel.</td>
       </tr>
       <tr class="border-t border-gray-100">
@@ -69,7 +69,7 @@ Les pronoms personnels sujets ont deja ete vus dans les lecons precedentes. Cett
 
 ## La distinction du/ihr/Sie
 
-C'est le point le plus important et le plus different du francais.
+C'est le point le plus important et le plus différent du français.
 
 <div class="mt-4 grid gap-3">
 
@@ -93,8 +93,8 @@ C'est le point le plus important et le plus different du francais.
 
 </div>
 
-::: tip Quand utiliser du ou Sie ?
-En Allemagne, la tendance est au tutoiement dans beaucoup de contextes (startups, magasins comme Ikea). Mais dans le doute - et surtout face a une personne plus agee ou dans un contexte formel - commence par *Sie*. La personne te proposera de passer au *du* si elle le souhaite : *"Wir können uns duzen"*.
+::: tip Quand utiliser du ou Sie ?
+En Allemagne, la tendance est au tutoiement dans beaucoup de contextes (startups, magasins comme Ikea). Mais dans le doute - et surtout face à une personne plus âgée ou dans un contexte formel - commence par *Sie*. La personne te proposera de passer au *du* si elle le souhaite : *« Wir können uns duzen »*.
 :::
 
 ## er, sie, es selon le genre grammatical
@@ -102,9 +102,9 @@ En Allemagne, la tendance est au tutoiement dans beaucoup de contextes (startups
 En allemand, *er/sie/es* suivent le genre grammatical du nom, pas le sexe naturel.
 
 - *der Tisch* (la table, masculin) → *Er ist groß.* - Il est grand.
-- *die Lampe* (la lampe, feminin) → *Sie ist hell.* - Elle est lumineuse.
+- *die Lampe* (la lampe, féminin) → *Sie ist hell.* - Elle est lumineuse.
 - *das Kind* (l'enfant, neutre) → *Es spielt.* - Il/elle joue.
 
 ::: warning das Madchen - elle est "es"
-*das Madchen* (la fille) est neutre grammaticalement (car diminutif en -chen). On dit donc *es* pour le designer, meme si c'est une fille. C'est deroutant au debut mais logique une fois qu'on connait les genres.
+*das Madchen* (la fille) est neutre grammaticalement (car diminutif en -chen). On dit donc *es* pour le designer, même si c'est une fille. C'est déroutant au début mais logique une fois qu'on connait les genres.
 :::

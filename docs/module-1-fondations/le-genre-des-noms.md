@@ -2,9 +2,9 @@
 
 **Prérequis :** [Alphabet et prononciation](./alphabet-prononciation)
 
-**Objectif :** comprendre le systeme des trois genres en allemand et apprendre les regles et indices qui permettent de les deviner.
+**Objectif :** comprendre le systeme des trois genres en allemand et apprendre les règles et indices qui permettent de les deviner.
 
-En allemand, chaque nom a un genre : masculin (*der*), feminin (*die*) ou neutre (*das*). Ce genre ne correspond pas toujours au sens du mot - c'est la difficulte principale. Mais il existe des regles qui aident a deviner.
+En allemand, chaque nom a un genre : masculin (*der*), féminin (*die*) ou neutre (*das*). Ce genre ne correspond pas toujours au sens du mot - c'est la difficulté principale. Mais il existe des règles qui aident à deviner.
 
 ## Les trois articles
 
@@ -18,7 +18,7 @@ En allemand, chaque nom a un genre : masculin (*der*), feminin (*die*) ou neutre
 
   <div class="p-4 rounded-xl border-2 border-red-200 bg-red-50 text-center">
     <div class="text-3xl font-black text-red-500">die</div>
-    <div class="font-semibold text-gray-700 mt-2">Feminin</div>
+    <div class="font-semibold text-gray-700 mt-2">Féminin</div>
     <div class="text-sm text-gray-500 mt-1">die Frau (la femme)<br>die Lampe (la lampe)<br>die Blume (la fleur)</div>
   </div>
 
@@ -31,14 +31,14 @@ En allemand, chaque nom a un genre : masculin (*der*), feminin (*die*) ou neutre
 </div>
 
 ::: tip Toujours apprendre le nom avec son article
-Pas juste *Tisch* - mais **der Tisch**. L'article fait partie du mot. Apprendre un nom sans son article est une habitude a ne jamais prendre.
+Pas juste *Tisch* - mais **der Tisch**. L'article fait partie du mot. Apprendre un nom sans son article est une habitude à ne jamais prendre.
 :::
 
 ## Regles utiles pour deviner le genre
 
-Ces regles ne sont pas absolues, mais elles couvrent une grande partie du vocabulaire.
+Ces règles ne sont pas absolues, mais elles couvrent une grande partie du vocabulaire.
 
-### Terminaisons generalement masculines (*der*)
+### Terminaisons généralement masculines (*der*)
 
 <div class="mt-4 grid gap-2">
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
@@ -59,18 +59,18 @@ Ces regles ne sont pas absolues, mais elles couvrent une grande partie du vocabu
   </div>
 </div>
 
-**Par categorie :** les saisons (*der Frühling, der Sommer, der Herbst, der Winter*), les jours de la semaine, les mois, les points cardinaux sont masculins.
+**Par catégorie :** les saisons (*der Frühling, der Sommer, der Herbst, der Winter*), les jours de la semaine, les mois, les points cardinaux sont masculins.
 
-### Terminaisons generalement feminines (*die*)
+### Terminaisons généralement feminines (*die*)
 
 <div class="mt-4 grid gap-2">
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
     <div class="font-bold text-red-500 w-24 shrink-0">-ung</div>
-    <div class="text-sm text-gray-600">Regle tres fiable : <em>die Zeitung</em> (journal), <em>die Wohnung</em> (appartement), <em>die Lösung</em> (solution)</div>
+    <div class="text-sm text-gray-600">Regle très fiable : <em>die Zeitung</em> (journal), <em>die Wohnung</em> (appartement), <em>die Lösung</em> (solution)</div>
   </div>
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
     <div class="font-bold text-red-500 w-24 shrink-0">-heit / -keit</div>
-    <div class="text-sm text-gray-600"><em>die Freiheit</em> (liberte), <em>die Schönheit</em> (beaute), <em>die Möglichkeit</em> (possibilite)</div>
+    <div class="text-sm text-gray-600"><em>die Freiheit</em> (liberte), <em>die Schönheit</em> (beaute), <em>die Möglichkeit</em> (possibilité)</div>
   </div>
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
     <div class="font-bold text-red-500 w-24 shrink-0">-schaft</div>
@@ -86,7 +86,7 @@ Ces regles ne sont pas absolues, mais elles couvrent une grande partie du vocabu
   </div>
 </div>
 
-### Terminaisons generalement neutres (*das*)
+### Terminaisons généralement neutres (*das*)
 
 <div class="mt-4 grid gap-2">
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
@@ -95,7 +95,7 @@ Ces regles ne sont pas absolues, mais elles couvrent une grande partie du vocabu
   </div>
 
 ::: info Das Mädchen - la fille est neutre
-*Mädchen* (la fille) est neutre (*das*) car c'est un diminutif en *-chen*. La regle du genre grammatical prime sur le sens naturel du mot. C'est un exemple souvent cite qui surprend les debutants.
+*Mädchen* (la fille) est neutre (*das*) car c'est un diminutif en *-chen*. La règle du genre grammatical prime sur le sens naturel du mot. C'est un exemple souvent cite qui surprend les débutants.
 :::
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
     <div class="font-bold text-green-600 w-24 shrink-0">-ment</div>
@@ -103,19 +103,19 @@ Ces regles ne sont pas absolues, mais elles couvrent une grande partie du vocabu
   </div>
   <div class="flex items-start gap-3 p-3 rounded-lg border border-gray-200">
     <div class="font-bold text-green-600 w-24 shrink-0">verbe nominalise</div>
-    <div class="text-sm text-gray-600">Un verbe utilise comme nom est toujours neutre : <em>das Essen</em> (manger / la nourriture), <em>das Lernen</em> (apprendre), <em>das Schreiben</em> (ecrire)</div>
+    <div class="text-sm text-gray-600">Un verbe utilisé comme nom est toujours neutre : <em>das Essen</em> (manger / la nourriture), <em>das Lernen</em> (apprendre), <em>das Schreiben</em> (ecrire)</div>
   </div>
 </div>
 
-**Par categorie :** les couleurs nominalises, les langues (*das Deutsche, das Französische*), les lettres de l'alphabet sont neutres.
+**Par catégorie :** les couleurs nominalises, les langues (*das Deutsche, das Französische*), les lettres de l'alphabet sont neutres.
 
 ## Les noms composes
 
-En allemand, on forme facilement des mots composes en concatenant plusieurs noms. Le genre du mot compose est toujours celui du **dernier element**.
+En allemand, on forme facilement des mots composes en concatenant plusieurs noms. Le genre du mot compose est toujours celui du **dernier élément**.
 
 - *der Flug* (vol) + *das Zeug* (engin) = **das** Flugzeug (avion)
 - *das Haus* (maison) + *die Tür* (porte) = **die** Haustür (porte d'entree)
-- *der Hand* + *die Tasche* (poche, sac) = **die** Handtasche (sac a main)
+- *der Hand* + *die Tasche* (poche, sac) = **die** Handtasche (sac à main)
 
 ## Au pluriel : tout devient *die*
 
@@ -125,6 +125,6 @@ Quel que soit le genre au singulier, l'article au pluriel est toujours **die**.
 - *die Frau* → *die Frauen*
 - *das Kind* → *die Kinder*
 
-::: tip Code couleur pour memoriser
+::: tip Code couleur pour mémoriser
 Utilise des couleurs quand tu notes du vocabulaire : bleu pour *der*, rouge pour *die*, vert pour *das*. Colle des post-its sur les objets chez toi avec l'article et le nom. C'est une des methodes les plus efficaces pour ancrer les genres.
 :::

@@ -10,7 +10,7 @@ next:
 
 **Objectif :** former le pluriel des noms courants et comprendre les 5 terminaisons possibles.
 
-Le pluriel en allemand est plus complexe qu'en français - il n'y a pas une seule regle. Il existe 5 terminaisons differentes, et certains noms peuvent aussi prendre un umlaut (tréma) sur leur voyelle. La bonne nouvelle : au pluriel, tous les noms prennent l'article **die**.
+Le pluriel en allemand est plus complexe qu'en français - il n'y a pas une seule règle. Il existe 5 terminaisons différentes, et certains noms peuvent aussi prendre un umlaut (tréma) sur leur voyelle. La bonne nouvelle : au pluriel, tous les noms prennent l'article **die**.
 
 ## Les 5 terminaisons du pluriel
 
@@ -73,7 +73,7 @@ Le pluriel en allemand est plus complexe qu'en français - il n'y a pas une seul
       <span class="text-xl font-black text-green-600 w-16 text-center">-s</span>
       <div class="font-semibold text-gray-900">Ajout d'un -s</div>
     </div>
-    <div class="text-sm text-gray-600">Principalement les mots d'origine etrangere et les abreviations. Jamais d'umlaut.</div>
+    <div class="text-sm text-gray-600">Principalement les mots d'origine étrangère et les abreviations. Jamais d'umlaut.</div>
     <div class="mt-2 flex flex-wrap gap-2">
       <span class="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">das Auto → die Autos</span>
       <span class="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">das Hotel → die Hotels</span>
@@ -85,12 +85,12 @@ Le pluriel en allemand est plus complexe qu'en français - il n'y a pas une seul
 
 ## Indices selon le genre
 
-Meme sans connaitre le pluriel exact, ces tendances aident :
+Même sans connaître le pluriel exact, ces tendances aident :
 
 | Genre | Terminaison la plus frequente | Exemple |
 |-------|------------------------------|---------|
 | Masculin (der) | -e (avec ou sans umlaut) | der Tag → die Tage |
-| Feminin (die) | -en / -n | die Zeitung → die Zeitungen |
+| Féminin (die) | -en / -n | die Zeitung → die Zeitungen |
 | Neutre (das) | -e ou -er (souvent avec umlaut) | das Buch → die Bücher |
 
 ## Cas particuliers
@@ -105,11 +105,11 @@ Meme sans connaitre le pluriel exact, ces tendances aident :
 - *die Musik, das Wasser, das Gold*
 
 ::: warning Pas de pluriel pour les matieres et substances
-Les noms de matieres, substances et concepts abstraits n'ont generalement pas de pluriel en allemand, comme en français. *Zwei Wasser* pour commander de l'eau au restaurant est cependant accepte oralement.
+Les noms de matieres, substances et concepts abstraits n'ont généralement pas de pluriel en allemand, comme en français. *Zwei Wasser* pour commander de l'eau au restaurant est cependant accepte oralement.
 :::
 
 ## Conseil
 
 ::: tip Apprendre trois informations par nom
-Pour chaque nouveau nom : l'article, le nom, et le pluriel. Par exemple : **der Hund - die Hunde** ou **das Buch - die Bücher**. Un peu plus de travail au debut, beaucoup moins d'erreurs ensuite.
+Pour chaque nouveau nom : l'article, le nom, et le pluriel. Par exemple : **der Hund - die Hunde** ou **das Buch - die Bücher**. Un peu plus de travail au début, beaucoup moins d'erreurs ensuite.
 :::

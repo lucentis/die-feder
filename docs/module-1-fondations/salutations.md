@@ -23,7 +23,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
       <div class="font-semibold text-gray-900 text-lg">Guten Morgen !</div>
       <span class="text-xs bg-green-100 text-green-700 px-2 py-1 rounded-full">formel / informel</span>
     </div>
-    <div class="text-gray-600 mt-1">Bonjour - utilise le matin (jusqu'a environ 11h)</div>
+    <div class="text-gray-600 mt-1">Bonjour - utilisé le matin (jusqu'a environ 11h)</div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
@@ -53,7 +53,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 </div>
 
 ::: warning Gute Nacht n'est pas Bonsoir
-*Gute Nacht* se dit uniquement quand on va dormir - pas en sortant d'un diner ou d'une soiree. Dans ce cas, on utilise *Tschüss* ou *Auf Wiedersehen*.
+*Gute Nacht* se dit uniquement quand on va dormir - pas en sortant d'un dîner ou d'une soirée. Dans ce cas, on utilisé *Tschüss* ou *Auf Wiedersehen*.
 :::
 
 ## Dire au revoir
@@ -65,7 +65,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
       <div class="font-semibold text-gray-900 text-lg">Tschüss !</div>
       <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded-full">informel</span>
     </div>
-    <div class="text-gray-600 mt-1">Au revoir / Salut - la facon la plus courante de dire au revoir</div>
+    <div class="text-gray-600 mt-1">Au revoir / Salut - la façon la plus courante de dire au revoir</div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
@@ -89,7 +89,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
       <div class="font-semibold text-gray-900 text-lg">Bis morgen !</div>
       <span class="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded-full">informel</span>
     </div>
-    <div class="text-gray-600 mt-1">A demain - *bis* + un complement de temps fonctionne toujours : *bis Montag* (a lundi)</div>
+    <div class="text-gray-600 mt-1">A demain - *bis* + un complément de temps fonctionne toujours : *bis Montag* (a lundi)</div>
   </div>
 
 </div>
@@ -105,7 +105,7 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 
   <div class="p-4 rounded-lg border border-green-100 bg-green-50">
     <div class="font-semibold text-gray-900">Wie geht es dir ? / Wie geht's ?</div>
-    <div class="text-sm text-gray-500 mt-1">Comment ca va ? - <strong>informel</strong>, avec tutoiement (*du*). *Wie geht's* est la forme raccourcie tres courante.</div>
+    <div class="text-sm text-gray-500 mt-1">Comment ca va ? - <strong>informel</strong>, avec tutoiement (*du*). *Wie geht's* est la forme raccourcie très courante.</div>
   </div>
 
 </div>
@@ -113,13 +113,13 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 **Reponses possibles :**
 
 - *Danke, gut.* - Merci, bien.
-- *Sehr gut !* - Tres bien !
+- *Sehr gut !* - Très bien !
 - *Es geht.* - Ca va. (moyen)
-- *Nicht so gut.* - Pas tres bien.
+- *Nicht so gut.* - Pas très bien.
 
 ## Remerciements et politesse de base
 
-| Allemand | Francais |
+| Allemand | Français |
 |----------|----------|
 | Danke ! | Merci ! |
 | Danke schön ! / Danke sehr ! | Merci beaucoup ! |
@@ -130,5 +130,5 @@ En allemand, les salutations varient selon l'heure de la journee et le contexte.
 | Es tut mir leid. | Je suis desole(e). |
 
 ::: tip Bitte - un mot, deux sens
-*Bitte* signifie "s'il vous plait" quand on demande quelque chose, et "de rien" quand on repond a un merci. C'est le meme mot dans les deux cas - apprends-le une bonne fois pour toutes.
+*Bitte* signifie "s'il vous plait" quand on demande quelque chose, et "de rien" quand on répond à un merci. C'est le même mot dans les deux cas - apprends-le une bonne fois pour toutes.
 :::

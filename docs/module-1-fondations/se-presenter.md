@@ -2,13 +2,13 @@
 
 **Prérequis :** [Salutations](./salutations)
 
-**Objectif :** dire qui tu es, d'ou tu viens, ton age et ce que tu fais - les bases d'une premiere conversation.
+**Objectif :** dire qui tu es, d'ou tu viens, ton âge et ce que tu fais - les bases d'une première conversation.
 
-Se presenter en allemand suit des structures simples et regulieres. Les quelques phrases de cette lecon te permettront de tenir une vraie conversation courte.
+Se présenter en allemand suit des structures simples et regulieres. Les quelques phrases de cette lecon te permettront de tenir une vraie conversation courte.
 
 ## Donner son nom
 
-Il existe trois facons de dire son nom - toutes sont correctes :
+Il existe trois façons de dire son nom - toutes sont correctes :
 
 <div class="mt-4 grid gap-3">
 
@@ -19,7 +19,7 @@ Il existe trois facons de dire son nom - toutes sont correctes :
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich bin [prenom].</div>
-    <div class="text-sm text-gray-500 mt-1">Je suis [prenom]. - direct et tres naturel</div>
+    <div class="text-sm text-gray-500 mt-1">Je suis [prenom]. - direct et très naturel</div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
@@ -45,7 +45,7 @@ Il existe trois facons de dire son nom - toutes sont correctes :
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich wohne in [ville].</div>
-    <div class="text-sm text-gray-500 mt-1">J'habite a [ville]. - distingue ton origine de ton lieu de residence actuel</div>
+    <div class="text-sm text-gray-500 mt-1">J'habite à [ville]. - distingue ton origine de ton lieu de residence actuel</div>
   </div>
 
 </div>
@@ -55,9 +55,9 @@ Il existe trois facons de dire son nom - toutes sont correctes :
 - *Woher kommst du ?* - D'ou viens-tu ? (informel)
 - *Woher kommen Sie ?* - D'ou venez-vous ? (formel)
 
-## L'age
+## L'âge
 
-En allemand, on utilise le verbe *sein* (etre), pas *avoir* comme en français.
+En allemand, on utilisé le verbe *sein* (être), pas *avoir* comme en français.
 
 <div class="mt-4 p-4 rounded-lg border border-green-200 bg-green-50">
   <div class="font-semibold text-gray-900">Ich bin [nombre] Jahre alt.</div>
@@ -65,14 +65,14 @@ En allemand, on utilise le verbe *sein* (etre), pas *avoir* comme en français.
   <div class="text-sm text-gray-500 mt-2">Ex : <em>Ich bin dreißig Jahre alt.</em> - J'ai 30 ans.</div>
 </div>
 
-::: info Avoir l'age en allemand
-En allemand on utilise *sein* (etre), pas *haben* (avoir) comme en français. *Ich bin 25 Jahre alt* signifie litteralement "je suis 25 ans vieux". C'est un des premiers reflexes a changer.
+::: info Avoir l'âge en allemand
+En allemand on utilisé *sein* (être), pas *haben* (avoir) comme en français. *Ich bin 25 Jahre alt* signifie littéralement "je suis 25 ans vieux". C'est un des premiers réflexes à changer.
 :::
 
-**Pour demander l'age :**
+**Pour demander l'âge :**
 
-- *Wie alt bist du ?* - Quel age as-tu ? (informel)
-- *Wie alt sind Sie ?* - Quel age avez-vous ? (formel)
+- *Wie alt bist du ?* - Quel âge as-tu ? (informel)
+- *Wie alt sind Sie ?* - Quel âge avez-vous ? (formel)
 
 ## La profession
 
@@ -86,7 +86,7 @@ En français on dit "je suis **un** professeur". En allemand on dit *Ich bin Leh
 
   <div class="p-4 rounded-lg border border-gray-200">
     <div class="font-semibold text-gray-900">Ich bin Lehrer. / Ich bin Lehrerin.</div>
-    <div class="text-sm text-gray-500 mt-1">Je suis professeur (homme) / professeure (femme). La terminaison <strong>-in</strong> marque le feminin.</div>
+    <div class="text-sm text-gray-500 mt-1">Je suis professeur (homme) / professeure (femme). La terminaison <strong>-in</strong> marque le féminin.</div>
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
@@ -95,8 +95,8 @@ En français on dit "je suis **un** professeur". En allemand on dit *Ich bin Leh
   </div>
 
   <div class="p-4 rounded-lg border border-gray-200">
-    <div class="font-semibold text-gray-900">Ich studiere [matiere].</div>
-    <div class="text-sm text-gray-500 mt-1">J'etudie [matiere]. - Ex : *Ich studiere Informatik.* (J'etudie l'informatique.)</div>
+    <div class="font-semibold text-gray-900">Ich studiere [matière].</div>
+    <div class="text-sm text-gray-500 mt-1">J'etudie [matière]. - Ex : *Ich studiere Informatik.* (J'etudie l'informatique.)</div>
   </div>
 
 </div>
@@ -105,11 +105,11 @@ En français on dit "je suis **un** professeur". En allemand on dit *Ich bin Leh
 
 - *Was machst du beruflich ?* - Qu'est-ce que tu fais dans la vie ? (informel)
 
-## Exemple de presentation complete
+## Exemple de présentation complète
 
 <div class="mt-4 p-5 rounded-xl border border-green-200 bg-green-50">
   <p class="font-medium text-gray-800 mb-1">Hallo ! Ich heiße Thomas. Ich komme aus Frankreich, aber ich wohne jetzt in Berlin. Ich bin achtundzwanzig Jahre alt und arbeite als Entwickler. Freut mich, dich kennenzulernen !</p>
-  <p class="text-sm text-gray-500 mt-3">Salut ! Je m'appelle Thomas. Je viens de France mais j'habite maintenant a Berlin. J'ai 28 ans et je travaille comme developpeur. Ravi de te rencontrer !</p>
+  <p class="text-sm text-gray-500 mt-3">Salut ! Je m'appelle Thomas. Je viens de France mais j'habite maintenant à Berlin. J'ai 28 ans et je travaille comme developpeur. Ravi de te rencontrer !</p>
 </div>
 
-> **Freut mich !** signifie "enchante(e)" ou "ravi(e) de te rencontrer". C'est la formule standard pour conclure une presentation.
+> **Freut mich !** signifie « enchanté(e) » ou « ravi(e) de te rencontrer ». C'est la formule standard pour conclure une présentation.

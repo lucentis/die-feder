@@ -10,15 +10,15 @@ next:
 
 **Objectif :** savoir former une phrase negative avec nicht et kein, et comprendre quand utiliser l'un ou l'autre.
 
-La negation en allemand utilise deux mots differents selon ce qu'on nie. C'est une des premieres difficultes pour les francophones habitues a un seul "ne... pas".
+La négation en allemand utilisé deux mots différents selon ce qu'on nie. C'est une des premières difficultés pour les francophones habitués à un seul "ne... pas".
 
-## La regle de base
+## La règle de base
 
 <div class="mt-4 grid gap-3">
 
   <div class="p-4 rounded-xl border border-red-200 bg-red-50">
     <div class="font-bold text-red-800 text-lg">nicht</div>
-    <div class="text-sm text-red-700 mt-1">Nie une action, un adjectif, un adverbe, ou un nom avec article defini</div>
+    <div class="text-sm text-red-700 mt-1">Nie une action, un adjectif, un adverbe, ou un nom avec article défini</div>
     <div class="text-sm text-gray-600 mt-2">= "ne... pas"</div>
   </div>
 
@@ -42,12 +42,12 @@ La negation en allemand utilise deux mots differents selon ce qu'on nie. C'est u
 
 ### Nier un adjectif ou un adverbe
 
-*Nicht* se place **avant** l'element nie :
+*Nicht* se place **avant** l'élément nie :
 
 - *Das ist gut.* → *Das ist **nicht** gut.* - Ce n'est pas bon.
 - *Er kommt oft.* → *Er kommt **nicht** oft.* - Il ne vient pas souvent.
 
-### Nier un nom avec article defini
+### Nier un nom avec article défini
 
 *Nicht* se place avant l'article :
 
@@ -55,7 +55,7 @@ La negation en allemand utilise deux mots differents selon ce qu'on nie. C'est u
 
 ## kein - la negation du nom indefini
 
-*Kein* remplace l'article indefini *ein/eine* et se decline comme lui :
+*Kein* remplace l'article indefini *ein/eine* et se décline comme lui :
 
 <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
   <table class="w-full text-sm">
@@ -63,7 +63,7 @@ La negation en allemand utilise deux mots differents selon ce qu'on nie. C'est u
       <tr class="bg-gray-50">
         <th class="p-3 text-left font-semibold text-gray-600"></th>
         <th class="p-3 text-center font-semibold text-blue-700">Masculin</th>
-        <th class="p-3 text-center font-semibold text-red-600">Feminin</th>
+        <th class="p-3 text-center font-semibold text-red-600">Féminin</th>
         <th class="p-3 text-center font-semibold text-green-700">Neutre</th>
         <th class="p-3 text-center font-semibold text-gray-700">Pluriel</th>
       </tr>
@@ -86,8 +86,8 @@ Exemples :
 - *Er hat eine Schwester.* → *Er hat **keine** Schwester.* - Il n'a pas de soeur.
 - *Ich trinke Kaffee.* → *Ich trinke **keinen** Kaffee.* - Je ne bois pas de cafe.
 
-::: warning La declinaison de kein change selon le cas
-Au nominatif, *kein* = masculin, *keine* = feminin, *kein* = neutre. Mais a l'accusatif (lecon suivante), le masculin devient *keinen*. Apprends les exemples par coeur pour l'instant - les cas seront detailles dans le module 3.
+::: warning La déclinaison de kein change selon le cas
+Au nominatif, *kein* = masculin, *keine* = féminin, *kein* = neutre. Mais a l'accusatif (lecon suivante), le masculin devient *keinen*. Apprends les exemples par coeur pour l'instant - les cas seront detailles dans le module 3.
 :::
 
 ## Aide-memoire : nicht ou kein ?
@@ -97,18 +97,18 @@ Au nominatif, *kein* = masculin, *keine* = feminin, *kein* = neutre. Mais a l'ac
   <div class="grid gap-2">
     <div class="flex items-start gap-2">
       <span class="font-bold text-green-700 mt-0.5">Oui</span>
-      <span class="text-gray-700">→ utilise <strong>kein/keine</strong> : <em>Ich habe keine Zeit.</em> (Je n'ai pas le temps.)</span>
+      <span class="text-gray-700">→ utilisé <strong>kein/keine</strong> : <em>Ich habe keine Zeit.</em> (Je n'ai pas le temps.)</span>
     </div>
     <div class="flex items-start gap-2">
       <span class="font-bold text-red-600 mt-0.5">Non</span>
-      <span class="text-gray-700">→ utilise <strong>nicht</strong> : <em>Ich arbeite nicht.</em> (Je ne travaille pas.)</span>
+      <span class="text-gray-700">→ utilisé <strong>nicht</strong> : <em>Ich arbeite nicht.</em> (Je ne travaille pas.)</span>
     </div>
   </div>
 </div>
 
 ::: tip doch - si (pour contredire un non)
-Si quelqu'un dit quelque chose de negatif et que tu veux contredire, utilise *doch* plutot que *ja* :
+Si quelqu'un dit quelque chose de négatif et que tu veux contredire, utilisé *doch* plutôt que *ja* :
 - *Du arbeitest nicht.* - Tu ne travailles pas.
 - ***Doch**, ich arbeite !* - Si, je travaille !
-C'est un mot tres courant en allemand qui n'a pas d'equivalent direct en français.
+C'est un mot très courant en allemand qui n'a pas d'equivalent direct en français.
 :::

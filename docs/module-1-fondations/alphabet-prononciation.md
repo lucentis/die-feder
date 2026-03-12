@@ -49,7 +49,7 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
   </div>
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">J j</div>
-    <div class="text-sm text-gray-500 mt-1">jot</div>
+    <div class="text-sm text-gray-500 mt-1">yot</div>
   </div>
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">K k</div>
@@ -77,7 +77,7 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
   </div>
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">Q q</div>
-    <div class="text-sm text-gray-500 mt-1">ku</div>
+    <div class="text-sm text-gray-500 mt-1">kou</div>
   </div>
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">R r</div>
@@ -113,11 +113,11 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
   </div>
   <div class="p-3 rounded-lg bg-gray-50 border border-gray-100">
     <div class="text-xl font-bold text-gray-900">Z z</div>
-    <div class="text-sm text-gray-500 mt-1">tset</div>
+    <div class="text-sm text-gray-500 mt-1">tsett</div>
   </div>
 </div>
 
-### Les 4 caracteres specifiques
+### Les 4 caractères spécifiques
 
 <div class="mt-4 grid grid-cols-2 gap-3">
   <div class="p-4 rounded-lg border border-green-200 bg-green-50">
@@ -139,12 +139,12 @@ L'alphabet allemand contient les 26 lettres latines classiques, plus 4 caractèr
 </div>
 
 ::: info Le ß sur un clavier français
-Si tu n'as pas de clavier allemand, tu peux remplacer ß par **ss** - c'est accepte partout. Alternativement : sur Windows `Alt + 0223`, sur Mac `Option + s`.
+Si tu n'as pas de clavier allemand, tu peux remplacer ß par **ss** - c'est accepté partout. Alternativement : sur Windows `Alt + 0223`, sur Mac `Option + s`.
 :::
 
-## Regles de prononciation
+## Règles de prononciation
 
-### Les combinaisons a connaitre
+### Les combinaisons à connaître
 
 Ce sont les sons qui piègent les francophones au départ.
 
@@ -167,7 +167,7 @@ Ce sont les sons qui piègent les francophones au départ.
   </div>
 
 ::: warning ei et ie - ne pas confondre
-*ei* = **aï** / *ie* = **i long**. C'est l'inverse de ce qu'on attendrait. *wein* (vin) se prononce "vaïn", *Wien* (Vienne) se prononce "viin". Ce piege fait trébucher beaucoup de debutants.
+*ei* = **aï** / *ie* = **i long**. C'est l'inverse de ce qu'on attendrait. *wein* (vin) se prononce "vaïn", *Wien* (Vienne) se prononce "viin". Ce piège fait trébucher beaucoup de débutants.
 :::
 
   <div class="flex items-start gap-4 p-4 rounded-lg border border-gray-200">
@@ -190,15 +190,15 @@ Ce sont les sons qui piègent les francophones au départ.
     <div class="text-xl font-bold text-green-600 w-16 shrink-0">ch</div>
     <div>
       <div class="font-medium text-gray-900">Deux sons selon la voyelle qui précède</div>
-      <div class="text-sm text-gray-500 mt-1">Apres a, o, u : son guttural du fond de la gorge - <em>Buch</em> (livre), <em>auch</em> (aussi)<br>Apres e, i, ä, ö, ü : son doux comme "hj" - <em>ich</em> (je), <em>Milch</em> (lait)</div>
+      <div class="text-sm text-gray-500 mt-1">Après a, o, u : son guttural du fond de la gorge - <em>Buch</em> (livre), <em>auch</em> (aussi)<br>Après e, i, ä, ö, ü : son doux, proche de "hy" - <em>ich</em> (je), <em>Milch</em> (lait)</div>
     </div>
   </div>
 
   <div class="flex items-start gap-4 p-4 rounded-lg border border-gray-200">
     <div class="text-xl font-bold text-green-600 w-16 shrink-0">sp / st</div>
     <div>
-      <div class="font-medium text-gray-900">En debut de mot : <strong>chp</strong> / <strong>cht</strong></div>
-      <div class="text-sm text-gray-500 mt-1">Ex : <em>sprechen</em> (parler) = "chprechen", <em>Student</em> = "chtudent"<br>Au milieu d'un mot, on prononce normalement : <em>Fenster</em> (fenetre)</div>
+      <div class="font-medium text-gray-900">En début de mot : <strong>chp</strong> / <strong>cht</strong></div>
+      <div class="text-sm text-gray-500 mt-1">Ex : <em>sprechen</em> (parler) = "chprechen", <em>Student</em> = "chtudent"<br>Au milieu d'un mot, on prononce normalement : <em>Fenster</em> (fenêtre)</div>
     </div>
   </div>
 
@@ -222,14 +222,14 @@ Ce sont les sons qui piègent les francophones au départ.
     <div class="text-xl font-bold text-green-600 w-16 shrink-0">v</div>
     <div>
       <div class="font-medium text-gray-900">Se prononce <strong>f</strong> dans les mots allemands</div>
-      <div class="text-sm text-gray-500 mt-1">Ex : <em>Vater</em> (père) = "fater", <em>viel</em> (beaucoup) = "fiel"<br>Exception : mots d'origine étrangere comme <em>Visum</em>, ou le v se prononce v</div>
+      <div class="text-sm text-gray-500 mt-1">Ex : <em>Vater</em> (père) = "fater", <em>viel</em> (beaucoup) = "fiel"<br>Exception : mots d'origine étrangère comme <em>Visum</em>, où le v se prononce v</div>
     </div>
   </div>
 
 </div>
 
 ::: warning W et V - l'inversion
-En allemand, **w** se prononce comme notre "v", et **v** se prononce comme notre "f". C'est systematiquement l'inverse du français. *Wein* = "vaïn", *Vater* = "fater".
+En allemand, **w** se prononce comme notre "v", et **v** se prononce comme notre "f". C'est systématiquement l'inverse du français. *Wein* = "vaïn", *Vater* = "fater".
 :::
 
 ### Le h muet
@@ -238,7 +238,7 @@ Le **h** ne se prononce pas quand il suit une voyelle - il allonge simplement le
 
 Ex : *fahren* (conduire) = "faaren", *Uhr* (heure) = "our"
 
-En debut de mot, le h est aspire : *Haus* (maison) = "haous".
+En début de mot, le h est aspiré : *Haus* (maison) = "haous".
 
 ### Le r allemand
 
@@ -247,5 +247,5 @@ Le **r** allemand se prononce au fond de la gorge, comme un léger gargarisme. I
 Ex : *Bruder* (frère) = "broudeur", *Tür* (porte) = "tüa"
 
 ::: tip Apprendre le r allemand
-Essaie de faire le son du "r" français du fond de la gorge en exagerant. Avec le temps il devient naturel. Ne cherche pas la perfection des le debut - un r un peu approximatif reste comprehensible.
+Essaie de faire le son du "r" français du fond de la gorge en exagérant. Avec le temps il devient naturel. Ne cherche pas la perfection dès le début - un r un peu approximatif reste compréhensible.
 :::

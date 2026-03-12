@@ -2,9 +2,9 @@
 
 **Prérequis :** [Le nominatif](./nominatif)
 
-**Objectif :** conjuguer n'importe quel verbe regulier au present en allemand.
+**Objectif :** conjuguer n'importe quel verbe régulier au présent en allemand.
 
-Les verbes reguliers - appeles aussi "verbes faibles" - suivent tous le meme modele. Une fois la regle connue, tu peux conjuguer des milliers de verbes sans les avoir jamais vus.
+Les verbes réguliers - appeles aussi "verbes faibles" - suivent tous le même modele. Une fois la règle connue, tu peux conjuguer des milliers de verbes sans les avoir jamais vus.
 
 ## La methode en 2 etapes
 
@@ -20,8 +20,8 @@ Les verbes reguliers - appeles aussi "verbes faibles" - suivent tous le meme mod
 | ihr | **-t** | mach**t** | lern**t** | wohn**t** |
 | sie/Sie | **-en** | mach**en** | lern**en** | wohn**en** |
 
-::: tip Les terminaisons wir et sie/Sie sont identiques a l'infinitif
-*wir machen* = nous faisons, *sie machen* = ils font / vous faites. La terminaison *-en* au pluriel est la meme que l'infinitif. C'est pratique a retenir.
+::: tip Les terminaisons wir et sie/Sie sont identiques à l'infinitif
+*wir machen* = nous faisons, *sie machen* = ils font / vous faites. La terminaison *-en* au pluriel est la même que l'infinitif. C'est pratique a retenir.
 :::
 
 ## Cas particulier : radical en -t ou -d
@@ -37,7 +37,7 @@ Quand le radical se termine par **-t** ou **-d**, on intercale un **-e-** devant
 | ihr | arbeit**e**t | wart**e**t |
 | sie/Sie | arbeit**en** | wart**en** |
 
-## Verbes utiles a connaitre
+## Verbes utiles à connaître
 
 <div class="mt-4 grid grid-cols-2 gap-3">
 
@@ -101,6 +101,6 @@ Quand le radical se termine par **-t** ou **-d**, on intercale un **-e-** devant
 - *Ihr arbeitet viel.* - Vous travaillez beaucoup.
 - *Sie reisen nach Berlin.* - Ils voyagent a Berlin.
 
-::: info Le present allemand couvre plusieurs sens francais
+::: info Le présent allemand couvre plusieurs sens français
 *Ich lerne Deutsch* peut se traduire par "j'apprends l'allemand", "je suis en train d'apprendre l'allemand" ou "j'apprendrai l'allemand (demain)". L'allemand n'a pas de forme progressive separee.
 :::

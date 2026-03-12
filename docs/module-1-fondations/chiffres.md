@@ -2,11 +2,11 @@
 
 **Prérequis :** [Alphabet et prononciation](./alphabet-prononciation)
 
-**Objectif :** compter de 0 à 1000 et au-dela, comprendre les prix, les ages et les numeros courants.
+**Objectif :** compter de 0 à 1000 et au-dela, comprendre les prix, les âges et les numéros courants.
 
-Les chiffres allemands suivent une logique tres reguliere une fois les bases apprises. Le seul piege important : pour les nombres entre 21 et 99, l'allemand dit l'unite avant la dizaine, relie par *und* (et).
+Les chiffres allemands suivent une logique très régulière une fois les bases apprises. Le seul piège important : pour les nombres entre 21 et 99, l'allemand dit l'unite avant la dizaine, relie par *und* (et).
 
-## 0 a 20
+## 0 à 20
 
 <div class="mt-6 grid grid-cols-4 gap-2">
 
@@ -97,8 +97,8 @@ Les chiffres allemands suivent une logique tres reguliere une fois les bases app
 
 </div>
 
-::: warning Irreguliers a retenir
-11 (*elf*) et 12 (*zwölf*) ne suivent pas la regle. 16 (*sechzehn*) perd le *s* de *sechs*, et 17 (*siebzehn*) perd le *en* de *sieben*.
+::: warning Irréguliers à retenir
+11 (*elf*) et 12 (*zwölf*) ne suivent pas la règle. 16 (*sechzehn*) perd le *s* de *sechs*, et 17 (*siebzehn*) perd le *en* de *sieben*.
 :::
 
 ## Les dizaines
@@ -142,8 +142,8 @@ Les chiffres allemands suivent une logique tres reguliere une fois les bases app
   </div>
 </div>
 
-::: warning Attention a dreißig
-30 s'ecrit *dreißig* (avec ß). 60 (*sechzig*) perd le *s*, 70 (*siebzig*) perd le *en* - meme logique que 16 et 17.
+::: warning Attention à dreißig
+30 s'ecrit *dreißig* (avec ß). 60 (*sechzig*) perd le *s*, 70 (*siebzig*) perd le *en* - même logique que 16 et 17.
 :::
 
 ## Les nombres composes (21-99)
@@ -178,7 +178,7 @@ En allemand, l'unite vient en premier, puis *und*, puis la dizaine. C'est l'inve
 
 </div>
 
-::: tip La regle des nombres composes
+::: tip La règle des nombres composes
 **unite + und + dizaine**, le tout en un seul mot. C'est l'inverse du français - on dit "cinq-et-trente" plutot que "trente-cinq".
 :::
 
@@ -197,10 +197,10 @@ Les nombres s'ecrivent en un seul mot jusqu'a 999 999.
 
 ## Utilisation pratique
 
-**L'age** - En allemand on utilise *sein* (etre) et non *avoir* :
+**L'âge** - En allemand on utilisé *sein* (être) et non *avoir* :
 
 - *Ich bin 25 Jahre alt.* - J'ai 25 ans.
-- *Wie alt bist du?* - Quel age as-tu ?
+- *Wie alt bist du?* - Quel âge as-tu ?
 
 **Les prix** - On dit le nombre puis *Euro* :
 

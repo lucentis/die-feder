@@ -1,10 +1,14 @@
 # Module 5 — Aller plus loin
 
-**Prérequis :** Modules 1 à 4.
+**Prérequis :** [Module 4 - Parler du temps](../module-4-le-temps/)
 
 **Objectif :** nuancer, préciser et complexifier son expression — maîtriser les cas restants, construire des phrases subordonnées, et aborder le registre formel.
 
-Ce module complète la grammaire fondamentale de l'allemand. À l'issue de ces leçons, tu auras les outils pour comprendre et produire des phrases complexes.
+Ce module complète la grammaire fondamentale de l'allemand. A l'issue de ces lecons, tu auras les outils pour comprendre et produire des phrases complexes.
+
+::: info Ce module boucle les quatre cas et la syntaxe complexe
+Datif, genitif, prépositions à cas variables, déclinaison des adjectifs, subordonnées - tout ce qui manquait pour passer d'un niveau "survie" à une expression précise et nuancée. Les leçons s'enchaînent : chaque notion s'appuie sur la précédente.
+:::
 
 ## Au programme
 
@@ -19,7 +23,7 @@ Ce module complète la grammaire fondamentale de l'allemand. À l'issue de ces l
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
 
-  <a href="./prepositions" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
+  <a href="./prépositions" class="group flex items-start gap-5 p-5 rounded-xl border border-gray-200 hover:border-green-500 hover:shadow-md transition-all duration-200 no-underline">
     <span class="text-3xl font-black text-gray-300 group-hover:text-green-200 transition-colors select-none w-8 text-center shrink-0">2</span>
     <div class="min-w-0">
       <div class="font-semibold text-gray-900 group-hover:text-green-600 transition-colors">Les prépositions</div>
@@ -63,5 +67,11 @@ Ce module complète la grammaire fondamentale de l'allemand. À l'issue de ces l
     </div>
     <span class="ml-auto text-gray-300 group-hover:text-green-400 transition-colors shrink-0">→</span>
   </a>
+
+</div>
+
+<div class="mt-10">
+
+[Commencer par le datif →](./datif)
 
 </div>

@@ -11,12 +11,12 @@ Le nominatif est le premier des quatre cas de la langue allemande. C'est le plus
 En allemand, les articles changent de forme selon la fonction du nom dans la phrase. Cette fonction s'appelle un **cas**. Il y en a quatre : nominatif, accusatif, datif, genitif.
 
 ::: info Pourquoi les cas existent
-Les cas permettent de savoir qui fait quoi dans une phrase, meme si l'ordre des mots change. C'est ce qui rend l'allemand plus flexible que le francais dans l'ordre des mots.
+Les cas permettent de savoir qui fait quoi dans une phrase, même si l'ordre des mots change. C'est ce qui rend l'allemand plus flexible que le français dans l'ordre des mots.
 :::
 
 ## Le nominatif : le sujet
 
-Le nominatif est utilise pour le **sujet de la phrase** - celui ou ce qui fait l'action.
+Le nominatif est utilisé pour le **sujet de la phrase** - celui ou ce qui fait l'action.
 
 *Der Mann kauft ein Buch.* - **L'homme** achete un livre. (der Mann = nominatif)
 
@@ -30,14 +30,14 @@ Le nominatif est utilise pour le **sujet de la phrase** - celui ou ce qui fait l
       <tr class="bg-gray-50">
         <th class="p-3 text-left font-semibold text-gray-600"></th>
         <th class="p-3 text-center font-semibold text-blue-700">Masculin (der)</th>
-        <th class="p-3 text-center font-semibold text-red-600">Feminin (die)</th>
+        <th class="p-3 text-center font-semibold text-red-600">Féminin (die)</th>
         <th class="p-3 text-center font-semibold text-green-700">Neutre (das)</th>
         <th class="p-3 text-center font-semibold text-gray-700">Pluriel</th>
       </tr>
     </thead>
     <tbody>
       <tr class="border-t border-gray-100">
-        <td class="p-3 font-medium text-gray-700">Article defini</td>
+        <td class="p-3 font-medium text-gray-700">Article défini</td>
         <td class="p-3 text-center font-bold text-blue-700">der</td>
         <td class="p-3 text-center font-bold text-red-600">die</td>
         <td class="p-3 text-center font-bold text-green-700">das</td>
@@ -58,7 +58,7 @@ Au nominatif, les articles sont exactement ceux qu'on a appris avec les genres :
 
 ## Les pronoms personnels au nominatif
 
-Ce sont les pronoms sujets - les memes qu'on utilise pour conjuguer les verbes.
+Ce sont les pronoms sujets - les mêmes qu'on utilisé pour conjuguer les verbes.
 
 <div class="mt-4 grid grid-cols-2 gap-4">
 
@@ -86,7 +86,7 @@ Ce sont les pronoms sujets - les memes qu'on utilise pour conjuguer les verbes.
 </div>
 
 ::: warning sie, sie et Sie - trois pronoms, une orthographe
-*sie* (minuscule) = elle / *sie* (minuscule) = ils/elles / *Sie* (majuscule) = vous de politesse. Le contexte et la conjugaison permettent de les distinguer. *Sie* avec majuscule s'ecrit toujours avec majuscule, meme en milieu de phrase.
+*sie* (minuscule) = elle / *sie* (minuscule) = ils/elles / *Sie* (majuscule) = vous de politesse. Le contexte et la conjugaison permettent de les distinguer. *Sie* avec majuscule s'ecrit toujours avec majuscule, même en milieu de phrase.
 :::
 
 ## Exemples en contexte
